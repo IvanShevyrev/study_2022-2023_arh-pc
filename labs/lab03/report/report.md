@@ -162,6 +162,7 @@ header-includes:
 
 Исполним комманы git add, git commit, git push
 
+![Выгрузка отчета на github ](image/17.png){#fig:017 width=70%}
 
 # Выводы
 
